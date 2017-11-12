@@ -5,4 +5,4 @@ before_install:
 before_script:
   - nuget restore test/test.sln
 after_script: 
-  - nunit-console test/packages/NUnit3TestAdapter.3.9.0/build/net35/NUnit3.TestAdapter.dll
+  - nunit-console test/packages/NUnit.3.9.0/lib/net45/nunit.framework.dll
