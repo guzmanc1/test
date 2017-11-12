@@ -4,5 +4,5 @@ before_install:
   - sudo apt-get install nunit-console
 before_script:
   - nuget restore test/test.sln
-after_script:
+after_script: 
   - nunit-console test\packages\NUnit.3.9.0\lib\net45\nunit.framework.dll
