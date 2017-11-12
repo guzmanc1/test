@@ -1,0 +1,8 @@
+/Users/name/Projects/test/test/bin/Debug/test.exe
+/Users/name/Projects/test/test/bin/Debug/test.pdb
+/Users/name/Projects/test/test/bin/Debug/nunit.framework.dll
+/Users/name/Projects/test/test/bin/Debug/nunit.framework.xml
+/Users/name/Projects/test/test/obj/x86/Debug/test.csprojResolveAssemblyReference.cache
+/Users/name/Projects/test/test/obj/x86/Debug/test.csproj.CoreCompileInputs.cache
+/Users/name/Projects/test/test/obj/x86/Debug/test.exe
+/Users/name/Projects/test/test/obj/x86/Debug/test.pdb
