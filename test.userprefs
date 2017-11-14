@@ -1,9 +1,16 @@
 ﻿<Properties StartupConfiguration="{0B8FB1C0-A16D-48FE-BCB5-3E68B2765617}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="test/Program.cs">
     <Files>
-      <File FileName="nunittest/Test.cs" Line="3" Column="12" />
-      <File FileName="test/Program.cs" Line="9" Column="47" />
+      <File FileName="nunittest/Test.cs" Line="15" Column="2" />
+      <File FileName="test/Program.cs" Line="16" Column="6" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="test" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.ItemProperties.test PreferredExecutionTarget="MonoDevelop.Default" />
