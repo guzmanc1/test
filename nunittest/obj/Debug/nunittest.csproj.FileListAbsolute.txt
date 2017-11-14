@@ -1,0 +1,17 @@
+/Users/carlosguzman/Documents/GitHub/test/nunittest/bin/Debug/NUnit3.TestAdapter.dll
+/Users/carlosguzman/Documents/GitHub/test/nunittest/bin/Debug/nunit.engine.dll
+/Users/carlosguzman/Documents/GitHub/test/nunittest/bin/Debug/nunit.engine.api.dll
+/Users/carlosguzman/Documents/GitHub/test/nunittest/bin/Debug/Mono.Cecil.dll
+/Users/carlosguzman/Documents/GitHub/test/nunittest/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/carlosguzman/Documents/GitHub/test/nunittest/bin/Debug/Mono.Cecil.Mdb.dll
+/Users/carlosguzman/Documents/GitHub/test/nunittest/bin/Debug/Mono.Cecil.Rocks.dll
+/Users/carlosguzman/Documents/GitHub/test/nunittest/bin/Debug/nunittest.dll
+/Users/carlosguzman/Documents/GitHub/test/nunittest/bin/Debug/nunittest.pdb
+/Users/carlosguzman/Documents/GitHub/test/nunittest/bin/Debug/nunit.framework.dll
+/Users/carlosguzman/Documents/GitHub/test/nunittest/bin/Debug/test.exe
+/Users/carlosguzman/Documents/GitHub/test/nunittest/bin/Debug/test.pdb
+/Users/carlosguzman/Documents/GitHub/test/nunittest/bin/Debug/nunit.framework.xml
+/Users/carlosguzman/Documents/GitHub/test/nunittest/obj/Debug/nunittest.csprojResolveAssemblyReference.cache
+/Users/carlosguzman/Documents/GitHub/test/nunittest/obj/Debug/nunittest.csproj.CoreCompileInputs.cache
+/Users/carlosguzman/Documents/GitHub/test/nunittest/obj/Debug/nunittest.dll
+/Users/carlosguzman/Documents/GitHub/test/nunittest/obj/Debug/nunittest.pdb
