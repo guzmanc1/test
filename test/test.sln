@@ -3,6 +3,8 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{0B8FB1C0-A16D-48FE-BCB5-3E68B2765617}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nunittest", "nunittest\nunittest.csproj", "{62FA5F93-34DE-4859-BCFD-FB0D951DCD7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -13,5 +15,9 @@ Global
 		{0B8FB1C0-A16D-48FE-BCB5-3E68B2765617}.Debug|x86.Build.0 = Debug|x86
 		{0B8FB1C0-A16D-48FE-BCB5-3E68B2765617}.Release|x86.ActiveCfg = Release|x86
 		{0B8FB1C0-A16D-48FE-BCB5-3E68B2765617}.Release|x86.Build.0 = Release|x86
+		{62FA5F93-34DE-4859-BCFD-FB0D951DCD7E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{62FA5F93-34DE-4859-BCFD-FB0D951DCD7E}.Debug|x86.Build.0 = Debug|Any CPU
+		{62FA5F93-34DE-4859-BCFD-FB0D951DCD7E}.Release|x86.ActiveCfg = Release|Any CPU
+		{62FA5F93-34DE-4859-BCFD-FB0D951DCD7E}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
