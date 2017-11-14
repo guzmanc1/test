@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{0B8FB1C0-A16D-48FE-BCB5-3E68B2765617}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="nunittest/Test.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="test/Program.cs">
     <Files>
+      <File FileName="nunittest/Test.cs" Line="3" Column="12" />
       <File FileName="test/Program.cs" Line="9" Column="47" />
-      <File FileName="nunittest/Test.cs" Line="11" Column="17" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />

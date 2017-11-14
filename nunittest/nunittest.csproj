@@ -36,5 +36,11 @@
   <ItemGroup>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\test\test.csproj">
+      <Project>{0B8FB1C0-A16D-48FE-BCB5-3E68B2765617}</Project>
+      <Name>test</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

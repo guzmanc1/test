@@ -1,5 +1,6 @@
 ﻿using NUnit.Framework;
 using System;
+using test;
 namespace nunittest
 {
     [TestFixture()]
@@ -8,7 +9,7 @@ namespace nunittest
         [Test()]
         public void TestCase()
         {
-            
+            Assert.AreEqual(15,15);
         }
     }
 }
