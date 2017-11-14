@@ -8,5 +8,10 @@ namespace test
         {
             Console.WriteLine("Hello World!");
         }
+
+        public int hello()
+        {
+            return 1; 
+        }
     }
 }

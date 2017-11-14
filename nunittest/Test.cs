@@ -4,10 +4,10 @@ using test;
 namespace nunittest
 {
     [TestFixture()]
-    public class Test
+    public class MainClass
     {
         [Test()]
-        public void TestCase()
+        public void Hello()
         {
             Assert.AreEqual(15,15);
         }
