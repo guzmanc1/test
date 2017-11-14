@@ -5,4 +5,4 @@ before_install:
 before_script:
   - nuget restore test.sln
 after_script: 
-  - nunit-console test/nunittest/bin/Debug/nunittest.dll
+  - nunit-console nunittest/bin/Debug/nunittest.dll
